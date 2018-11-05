@@ -1,8 +1,9 @@
 var playlist = {
   Alison: "Slowdive",
-  'My Bloody Valentine': "Sometimes"
+  'My Bloody Valentine': "Sometimes",
+  'Phil Ochs': "Here's to the State of Mississippi"
 };
-function updatePlaylist(obj, key, value) {
+function updatePlaylist(, key, value) {
   obj[key] = value;
   return object;
 }
