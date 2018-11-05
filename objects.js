@@ -1,6 +1,6 @@
 var playlist = {
   Alison: "Slowdive";
-}
+};
 function updatePlaylist(obj, key, value) {
   obj[key] = value;
 }
